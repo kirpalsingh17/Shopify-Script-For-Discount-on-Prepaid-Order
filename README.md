@@ -30,4 +30,4 @@ Before proceediing next, I must like to clear that Shopify Scripts can be only u
 <li>click Save and publish to create and publish the script.</li>
 <ul>
   
-  
+ yet to completed stay connected 
