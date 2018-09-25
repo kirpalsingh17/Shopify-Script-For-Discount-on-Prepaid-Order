@@ -20,10 +20,12 @@ Before proceediing next, I must like to clear that Shopify Scripts can be only u
 <p>Only one script per script type can be published at one time. For example, you can publish a line items script and a shipping rates script, but you can't publish two line items scripts at the same time.</p>
 
 <h2>How to implement these scripts? </h2>
-<p>Open the Script Editor. The Scripts overview page shows a list of scripts for your store.</p>
-<p>Click Create script to begin creating a new script.</p>
-<p>Select script template</p>
-<p>In the Title box, enter a name for the script. Use a descriptive name so you can tell what the script does at a glance</p>
-<p>Click Code to open the Ruby source code console.</p>
-<p>Click Run script to run the script.</p>
-<p>click Save and publish to create and publish the script.</p>
+<ul>
+<li>1.Open the Script Editor. The Scripts overview page shows a list of scripts for your store.</li>
+<li>2.Click Create script to begin creating a new script.</li>
+<li>3.Select script template.</li>
+<li>4.In the Title box, enter a name for the script. Use a descriptive name so you can tell what the script does at a glance.</li>
+<li>5.Click Code to open the Ruby source code console.</li>
+<li>6.Click Run script to run the script.</li>
+<li>7.click Save and publish to create and publish the script.</li>
+<ul>
