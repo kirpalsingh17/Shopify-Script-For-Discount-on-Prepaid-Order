@@ -40,7 +40,11 @@ Given below steps you need to follow to implement Shopify script for prepaid ord
 </ul>
 
 <h2>Major file to amendment</h2>
-
+For changes on price according to discount based.
 <pre>carrie.checkout-script.js</pre>
+
+Shopify Ruby script code to apply discount on products.
 <pre>lineitem_discount.rb</pre>
+
+Updated checkout.liquid to applicable for prepaid orders.
 <pre>update_code_checkout.liquid</pre>
