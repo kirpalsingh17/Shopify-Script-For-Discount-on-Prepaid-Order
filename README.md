@@ -38,3 +38,9 @@ Given below steps you need to follow to implement Shopify script for prepaid ord
 <li>Create new javascript file named as carrie.checkout-script.js in the assets folder.</li>
 <li>Copy this javascript code in <a href="https://github.com/kirpalsingh17/Shopify-Script-For-Discount-on-Prepaid-Order/blob/master/carrie.checkout-script.js">carrie.checkout-script.js</a> file</li>
 </ul>
+
+<h2>Major file to amendment</h2>
+
+<pre>carrie.checkout-script.js</pre>
+<pre>lineitem_discount.rb</pre>
+<pre>update_code_checkout.liquid</pre>
