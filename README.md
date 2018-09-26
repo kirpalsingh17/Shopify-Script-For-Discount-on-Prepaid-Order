@@ -28,13 +28,13 @@ Before proceediing next, I must like to clear that Shopify Scripts can be only u
 <li>Click Code to open the Ruby source code console.</li>
 <li>Click Run script to run the script.</li>
 <li>click Save and publish to create and publish the script.</li>
+</ul>
+
+Given below steps you need to follow to implement Shopify script for prepaid order discount.
 <ul>
-  
- Given below steps you need to follow to implement Shopify script for prepaid order discount.
- <ul>
-  <li>Install Shopify script app (https://apps.shopify.com/script-editor)</li>
-  <li>Create new line item script and copy code from this file. </li>
-  <li>Copy this code to your checkout.liquid file in the layout folder</li>
-  <li>Create new javascript file named as simply.checkout-script.js in the assets folder.</li>
-  <li>Copy this javascript code in simply.checkout-script.js file</li>
-  </ul>
+<li>Install Shopify script app (https://apps.shopify.com/script-editor)</li>
+  <li>Create new line item script and copy code from this <a href="https://github.com/kirpalsingh17/Shopify-Script-For-Discount-on-Prepaid-Order/blob/master/lineitem_discount.rb">file.</a> </li>
+<li>Copy this code to your <a href="https://github.com/kirpalsingh17/Shopify-Script-For-Discount-on-Prepaid-Order/blob/master/update_code_checkout.liquid">checkout.liquid</a> file in the layout folder</li>
+<li>Create new javascript file named as carrie.checkout-script.js in the assets folder.</li>
+<li>Copy this javascript code in <a href="https://github.com/kirpalsingh17/Shopify-Script-For-Discount-on-Prepaid-Order/blob/master/carrie.checkout-script.js">carrie.checkout-script.js</a> file</li>
+</ul>
