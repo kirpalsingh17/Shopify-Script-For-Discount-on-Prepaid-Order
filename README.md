@@ -30,4 +30,11 @@ Before proceediing next, I must like to clear that Shopify Scripts can be only u
 <li>click Save and publish to create and publish the script.</li>
 <ul>
   
- yet to completed stay connected 
+ Given below steps you need to follow to implement Shopify script for prepaid order discount.
+ <ul>
+  <li>Install Shopify script app (https://apps.shopify.com/script-editor)</li>
+  <li>Create new line item script and copy code from this file. </li>
+  <li>Copy this code to your checkout.liquid file in the layout folder</li>
+  <li>Create new javascript file named as simply.checkout-script.js in the assets folder.</li>
+  <li>Copy this javascript code in simply.checkout-script.js file</li>
+  </ul>
